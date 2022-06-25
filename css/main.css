@@ -2148,7 +2148,7 @@ li.sub-menu--item.nav-item-has-children i {
 .l-11-hero-btn {
   min-width: 205px;
   height: 60px;
-  background: #258AFF;
+  background: #F95A2C;
   border-radius: 3px;
   font-family: Karla;
   font-style: normal;
@@ -2383,7 +2383,7 @@ Content Area-1 L-11-2
 }
 
 .content-area-l-11-3 ul li i {
-  color: #258AFF;
+  color: #F95A2C;
   margin-right: 20px;
   font-size: 18px;
 }
@@ -2452,7 +2452,7 @@ Content Area-1 L-11-2
   height: 60px;
   line-height: 60px;
   text-align: center;
-  background: #258AFF;
+  background: #F95A2C;
   border-radius: 5px;
   color: #fff;
   font-size: 30px;
@@ -2618,7 +2618,7 @@ Content Area-1 L-11-2
   position: absolute;
   top: 0;
   left: 0;
-  background-color: #258aff !important;
+  background-color: #F95A2C !important;
   transform: rotate(-4deg) !important;
   border-radius: 5px;
   z-index: -1;
@@ -2690,7 +2690,7 @@ Content Area-1 L-11-2
   line-height: 21px;
   letter-spacing: -1px;
   color: #FFFFFF;
-  background: #258AFF;
+  background: #e69680;
   border: 2px solid #FFFFFF;
   box-sizing: border-box;
   border-radius: 3px;
